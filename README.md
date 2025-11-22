@@ -2,7 +2,7 @@
 
 **`Full-stack Developer (WEB & MOBILE apps)`**
 
-I’m a full-stack web and mobile developer with expertise in Next.js, React, and Flutter, dedicated to building fast, scalable, and intuitive digital products. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With experience across the full development cycle from UI/UX implementation to backend logic and API integration, I bring a holistic approach to every project. My work focuses on performance, clean architecture, and seamless cross-platform experiences.
+I’m a full-stack developer with expertise in Next.js, React, and Flutter, dedicated to building fast, scalable, and intuitive digital products. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With experience across the full development cycle from UI/UX implementation to backend logic and API integration, I bring a holistic approach to every project. My work focuses on performance, clean architecture, and seamless cross-platform experiences.
 
 ---
 
